@@ -15,6 +15,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .text_field {
   color:#000000;
   text-align:left;
