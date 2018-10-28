@@ -36,12 +36,7 @@
 
 #### 原型地址
 
-https://cheerqy.github.io/vdin.version2
+云平台：https://cheerqy.github.io/vdin.version2
 
 ![img](https://github.com/CheerQY/vdin.version2/blob/master/GIF.gif)
-
-#### 
-
-
-
-确保公司研发进度的公开性，准确把握产品、研发进度，将产品管理、项目管理、质量管理、文档管理、组织管理和事务管理溶于一体，完整覆盖了研发项目管理的核心流程。
+app：https://modao.cc/app/9e8681f1cb999b4be9f6c02976bcfe15711de642
