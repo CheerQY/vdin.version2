@@ -40,3 +40,4 @@
 
 ![img](https://github.com/CheerQY/vdin.version2/blob/master/GIF.gif)
 app：https://modao.cc/app/9e8681f1cb999b4be9f6c02976bcfe15711de642
+![img](https://github.com/CheerQY/vdin.version2/blob/master/GIF-app.gif)
